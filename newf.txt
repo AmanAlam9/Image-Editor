@@ -1,0 +1,1 @@
+when we open then default image is the given then anyone can select
